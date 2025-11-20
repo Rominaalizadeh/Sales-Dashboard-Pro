@@ -1,2 +1,1 @@
-# Sales-Dashboard-Pro
-power bi
+# Sales-Dashboard
